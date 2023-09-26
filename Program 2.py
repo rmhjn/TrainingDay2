@@ -14,7 +14,7 @@ def parse_encoded_string(encoded_string):
         }
         return result
     else:
-        return None  # Return None if the string doesn't contain all required parts
+        return None
 
 # Example usage:
 encoded_string = "John000Doe000123"

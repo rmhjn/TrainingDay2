@@ -19,6 +19,6 @@ month = 9
 year = 2023
 result = has_friday_13(month, year)
 if result:
-    print(f'Yes, {month}/{year} has a Friday the 13th.')
+    print(f'True, {month}/{year} has a Friday the 13th.')
 else:
-    print(f'No, {month}/{year} does not have a Friday the 13th.')
+    print(f'False, {month}/{year} does not have a Friday the 13th.')
